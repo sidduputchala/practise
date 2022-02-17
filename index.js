@@ -1,0 +1,1 @@
+document.getElementsById('name').innerHtml = "Siddu";
